@@ -10,8 +10,11 @@ I'm a developer from Vietnam passionate about building intelligent systems and c
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 **Tech Stack**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -42,12 +45,6 @@ I'm a developer from Vietnam passionate about building intelligent systems and c
 | [Robot-Thi-giac-may-tinh](https://github.com/DMonkey0908/Robot-Thi-giac-may-tinh) | Computer vision robot |
 | [Green-IoT](https://github.com/DMonkey0908/Green-IoT) | IoT application |
 | [esp32-iot](https://github.com/DMonkey0908/esp32-iot) | ESP32 IoT demo |
-
----
-
-### GitHub Stats
-
-![DMonkey0908's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMonkey0908&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
 
 ---
 
