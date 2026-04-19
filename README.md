@@ -13,8 +13,23 @@ I'm a developer from Vietnam passionate about building intelligent systems and c
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
+**Tech Stack**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 **Interests**
 `IoT` · `AI / Machine Learning` · `Computer Vision` · `Voice Assistants` · `Embedded Systems`
+
+---
+
+### 🔭 Currently Exploring
+
+- 🤖 **CrawlBot** & **Opencrawl** — intelligent web crawling systems
+- ⚡ **Token Optimization** — efficient LLM prompt & context engineering
+- 📚 **Knowledge Base** — research on retrieval-augmented generation (RAG) and semantic search
 
 ---
 
